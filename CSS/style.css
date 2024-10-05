@@ -583,6 +583,10 @@ html {
     background: white;
     color: #333;
   }
+
+   .navbar .web-logo {
+    padding: 0;
+  }
   
   .navbar .list-menu {
     display: none;
